@@ -1,0 +1,11 @@
+{
+  "kind": "service",
+  "build": "npm run build",
+  "start": "npm start",
+  "port": 5000,
+  "env": {
+    "NODE_ENV": "production",
+    "PORT": "5000",
+    "DATA_DIR": "/data"
+  }
+}
