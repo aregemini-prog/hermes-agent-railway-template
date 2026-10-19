@@ -1,5 +1,0 @@
-{
-  "kind": "service",
-  "start": "npm start",
-  "port": 5000
-}
