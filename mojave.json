@@ -1,5 +1,5 @@
 {
   "kind": "service",
-  "build": "docker",
+  "start": "node server.js",
   "port": 5000
 }
